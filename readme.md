@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faeze Roshan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **F.Roshankalati@yahoo.com**
 
